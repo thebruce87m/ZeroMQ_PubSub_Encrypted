@@ -39,7 +39,7 @@ python3 generate_certificates.py
 python3 example-server.py
 ```
 
-# Run the client ( Terminal 2 )
+## Run the client ( Terminal 2 )
 
 ```bash
 python3 example-client.py
