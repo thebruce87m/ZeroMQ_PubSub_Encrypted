@@ -1,3 +1,8 @@
+# About
+
+Example of sending a json message using pub/sub in ZeroMQ using encryption.
+
+
 # Installation
  - Clone the repo
 
