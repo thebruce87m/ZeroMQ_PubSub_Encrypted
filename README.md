@@ -19,3 +19,23 @@ python3 -m venv env
 ```bash
 pip3 install -r requirements.txt
 ```
+
+# Usage
+
+## Generate keys
+
+```bash
+python3 generate_certificates.py
+```
+
+## Run the server ( Terminal 1 )
+
+```bash
+python3 example-server.py
+```
+
+# Run the client ( Terminal 2 )
+
+```bash
+python3 example-client.py
+```
